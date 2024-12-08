@@ -4,8 +4,6 @@ PledgeQA is a comprehensive uptime monitoring software designed to empower organ
 
 ![PledgeQA SaaS](./images/landing.png)
 
----
-
 ## Key Features
 
 ### 1. **Comprehensive Monitors**
@@ -39,6 +37,8 @@ With these options, PledgeQA can monitor everything from basic website uptime to
 
 Organize related monitors into **groups** for better visualization and streamlined management. For example, group all components of a microservice or a geographical region for a clearer status overview.
 
+---
+
 ### 3. **Status Pages**
 
 Display monitor statuses in real-time with customizable **status pages**:
@@ -46,6 +46,7 @@ Display monitor statuses in real-time with customizable **status pages**:
 - Show individual monitor statuses.
 - Group monitors for organized presentation.
 - Enhance transparency with public-facing or internal status pages.
+- Customize status pages with your branding for a seamless user experience.
 
 ![PledgeQA status page](./images/status.png)
 
