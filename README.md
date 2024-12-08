@@ -1,6 +1,8 @@
-# PledgeQA SaaS: The One-Stop Solution for Uptime Monitoring
+# PledgeQA: Never lose customers to downtime again
 
 PledgeQA is a comprehensive uptime monitoring software designed to empower organizations with real-time insights into their systems' health and performance. With a wide range of monitoring options, alerting capabilities, and customizable features, PledgeQA ensures your systems stay reliable and your users stay happy. Whether you choose to host on your own tenant or opt for our managed version, PledgeQA is the ultimate solution for all your uptime monitoring needs.
+
+> Discover issues before your customers do with PledgeQA.
 
 ![PledgeQA SaaS](./images/landing.png)
 
