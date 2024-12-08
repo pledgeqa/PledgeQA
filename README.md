@@ -97,8 +97,6 @@ Tailor PledgeQA to meet your organization's unique needs with configurable setti
 - **API Support:** Integrate monitoring with your applications.
 - **Proxies:** Configure proxy settings for secure and private monitoring.
 
----
-
 ## Deployment Options
 
 PledgeQA offers flexibility in deployment to suit various operational needs:
@@ -106,8 +104,6 @@ PledgeQA offers flexibility in deployment to suit various operational needs:
 - **Self-Hosted:** Deploy PledgeQA docker image on your organization's own tenant for full control.
 - **Assisted Deployment:** Get assistance with setting up PledgeQA on your infrastructure.
 - **Managed Service:** Use our managed version for hassle-free setup and maintenance.
-
----
 
 ## Widely Used Features
 
@@ -120,8 +116,6 @@ While every feature in PledgeQA adds value, the following stand out as game-chan
 5. **TLS Certificate Expiry Notifications:** Prevent costly SSL/TLS certificate lapses.
 
 ![PledgeQA widely used features](./images/widely.png)
-
----
 
 ## Why Choose PledgeQA?
 
